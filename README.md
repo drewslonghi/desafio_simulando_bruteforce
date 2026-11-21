@@ -1,4 +1,4 @@
-# Auditoria de Força Bruta com Kali Linux e Medusa
+# Simulação de Força Bruta com Kali Linux e Medusa
 
 ## Objetivo
 
